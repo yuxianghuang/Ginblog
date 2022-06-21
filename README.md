@@ -74,9 +74,7 @@ gin+vue 全栈制作一个博客。
 1. 克隆项目
 
 	```shell
-	git clone git@gitee.com:wejectchan/ginblog.git
-	or
-	git clone https://github.com/wejectchen/Ginblog.git
+	git clone https://github.com/yuxianghuang/Ginblog.git
 	```
 
 2. 转到下面文件夹下
